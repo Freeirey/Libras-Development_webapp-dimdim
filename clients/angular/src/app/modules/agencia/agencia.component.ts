@@ -16,4 +16,4 @@ export class AgenciaComponent implements OnInit {
         LocalStorageUtils.limparTudo();
         this.router.navigate(['/administrativa']);
     }
-}
+
