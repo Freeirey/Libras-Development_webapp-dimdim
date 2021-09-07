@@ -14,4 +14,4 @@ export class AgenciaService extends BaseService {
         return this.httpClient.post<{ token: string, agencia: Agencia }>
             (this.apiUrl + 'agencia/login', agencia);
     }
-
+}
