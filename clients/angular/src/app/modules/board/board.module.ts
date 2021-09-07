@@ -59,4 +59,4 @@ import { MovimentacoesService } from './services/movimentacoes.service';
     ],
 })
 
-export class BoardModule { 
+export class BoardModule { }
