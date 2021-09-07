@@ -25,4 +25,4 @@ export abstract class BaseService {
     protected extractData(response: any) {
         return response.data || {};
     }
-
+}
