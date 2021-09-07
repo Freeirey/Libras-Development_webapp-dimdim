@@ -24,4 +24,4 @@ export class ClientesService extends BaseService {
         return this.httpClient.post<any>
             (this.apiUrl + `clientes/${id}/recusar`, null, super.obterTokenJson());
     }
-
+}
