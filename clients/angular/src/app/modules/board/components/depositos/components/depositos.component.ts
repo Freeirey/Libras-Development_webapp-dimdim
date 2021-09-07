@@ -76,4 +76,4 @@ export class DepositosComponent implements OnInit {
             this.snackBar.open(erro, 'Ok');
         });
     }
-}
+
