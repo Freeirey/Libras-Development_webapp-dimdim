@@ -55,4 +55,4 @@ export class LoginAgenciaComponent implements OnInit {
             this.snackBar.open(erro, 'Ok');
         });
     }
-
+}
