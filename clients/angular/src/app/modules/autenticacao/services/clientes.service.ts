@@ -20,4 +20,4 @@ export class ClientesService extends BaseService {
         return this.httpClient.post<{ token: string, cliente: Cliente }>
             (this.apiUrl + 'clientes/login', cliente);
     }
-}
+
