@@ -10,4 +10,4 @@ export class Cliente {
     public situacao: SituacaoCliente;
     public dataHoraCriacao: string;
     public senha: string;
-
+}
