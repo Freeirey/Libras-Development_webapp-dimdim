@@ -48,4 +48,4 @@ import { AgenciaService } from './services/agencias.service';
     ],
 })
 
-export class AutenticacaoModule { 
+export class AutenticacaoModule { }
