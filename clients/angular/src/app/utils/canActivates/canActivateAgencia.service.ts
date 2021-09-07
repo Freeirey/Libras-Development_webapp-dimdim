@@ -22,4 +22,4 @@ export class CanActivateAgenciaGuard implements CanActivateChild {
 
         return true;
     }
-
+}
