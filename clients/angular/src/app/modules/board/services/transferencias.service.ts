@@ -28,4 +28,4 @@ export class TransferenciasService extends BaseService {
                 super.obterTokenJson()
             );
     }
-}
+
