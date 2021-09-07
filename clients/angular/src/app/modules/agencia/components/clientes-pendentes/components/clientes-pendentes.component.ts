@@ -72,4 +72,4 @@ export class ClientesPendentesComponent implements OnInit {
             this.snackBar.open(erro, 'Ok');
         });
     }
-
+}
