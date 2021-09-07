@@ -105,4 +105,4 @@ export class TransferenciasComponent implements OnInit {
             valor: [0, [Validators.required, Validators.min(1)]]
         });
     }
-}
+
