@@ -18,4 +18,4 @@ export class BoardComponent implements OnInit {
         LocalStorageUtils.limparTudo();
         this.router.navigate(['/']);
     }
-
+}
