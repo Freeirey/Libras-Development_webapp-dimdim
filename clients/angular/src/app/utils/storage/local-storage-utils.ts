@@ -2,11 +2,11 @@ import { Cliente } from 'src/app/models/clientes/cliente';
 import { Agencia } from 'src/app/models/agencia/agencia';
 
 export class LocalStorageUtils {
-    private static clienteKey = 'bankflix.cliente';
-    private static clienteToken = 'bankflix.cliente.token';
+    private static clienteKey = 'bank.cliente';
+    private static clienteToken = 'bank.cliente.token';
 
-    private static agenciaKey = 'bankflix.agencia';
-    private static agenciaToken = 'bankflix.agencia.token';
+    private static agenciaKey = 'bank.agencia';
+    private static agenciaToken = 'bank.agencia.token';
 
     public static obterClienteToken(): string {
         return localStorage.getItem(this.clienteToken);
