@@ -15,9 +15,6 @@ A aplicação angular (front-end) poderá ser acessada através do endpoint `htt
 ## Sobre
 O projeto **Bankflix** simula um banco digital, contendo a área do cliente e administrativa, permitindo depósitos e transferências entre contas do mesmo banco..
 
-## Dê uma estrela! :star:
-Se você gostou do projeto ou se ele te ajudou, por favor dê uma estrela ;)
-
 ## Atenção
 Este não é um projeto para ser utilizado em produção. Ele é apenas uma demonstração do uso das tecnologias e da arquitetura em que foi construído. **Existem ajustes e melhorias a serem feitos**.
 
@@ -45,12 +42,3 @@ Este não é um projeto para ser utilizado em produção. Ele é apenas uma demo
 - Quando o depósito ou transferência forem efetuados/recusados (cancelado) será disparado um evento de envio de e-mail (apenas simulando, não envia realmente) notificando os clientes.
 - Quando o depósito ou transferência forem efetuados com sucesso, será registrada a movimentação.-
 
-## Autor 👦
-
-* **Alexandre Beato** - *Desenvolvedor* - [GitHub](https://github.com/alexandrebeato) - [Linkedin](https://www.linkedin.com/in/alexandrebeato)
-
-## Roadmap 🗺
-|Item|Data|
-|---|---|
-|Testes|TBD|
-|Aplicativo Mobile (Flutter)|✔|
