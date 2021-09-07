@@ -70,4 +70,4 @@ export class MovimentacoesComponent implements OnInit {
             }
         }
     }
-
+}
