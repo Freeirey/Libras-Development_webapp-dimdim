@@ -54,7 +54,3 @@ Este não é um projeto para ser utilizado em produção. Ele é apenas uma demo
 |---|---|
 |Testes|TBD|
 |Aplicativo Mobile (Flutter)|✔|
-
-## License 📃
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
