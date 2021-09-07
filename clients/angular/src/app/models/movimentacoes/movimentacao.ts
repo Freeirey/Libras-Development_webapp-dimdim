@@ -26,4 +26,4 @@ export class Cliente {
 export class Vinculo {
     public vinculadoId: string;
     public tipo: TipoVinculado;
-
+}
