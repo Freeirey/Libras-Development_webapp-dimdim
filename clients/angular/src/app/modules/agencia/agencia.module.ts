@@ -52,4 +52,4 @@ import { FormsModule } from '@angular/forms';
     ],
 })
 
-export class AgenciaModule { 
+export class AgenciaModule { }
