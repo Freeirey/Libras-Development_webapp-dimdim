@@ -20,4 +20,4 @@ export class Cliente {
     public id: string;
     public nomeCompleto: string;
     public cpf: string;
-}
+
