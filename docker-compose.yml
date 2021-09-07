@@ -41,4 +41,4 @@ services:
       RABBITMQ_DEFAULT_VHOST: rabbitmq-bankflix
 
 networks:
-  
+  bankflix:
