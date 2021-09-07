@@ -96,4 +96,4 @@ export class CadastroClienteComponent {
             this.snackBar.open(erro, 'Ok');
         });
     }
-}
+
