@@ -19,4 +19,4 @@ export class DepositosService extends BaseService {
         return this.httpClient.post<Deposito>
             (this.apiUrl + 'depositos/solicitar', { valor: +valor }, super.obterTokenJson());
     }
-}
+
