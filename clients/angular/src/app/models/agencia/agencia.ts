@@ -6,4 +6,4 @@ export class Agencia {
     public nomeFantasia: string;
     public cnpj: string;
     public dadosBancarios: DadosBancarios;
-}
+
