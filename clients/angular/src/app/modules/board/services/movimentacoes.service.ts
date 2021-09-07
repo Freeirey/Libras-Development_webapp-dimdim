@@ -14,4 +14,4 @@ export class MovimentacoesService extends BaseService {
         return this.httpClient.get<Movimentacao[]>
             (this.apiUrl + 'movimentacoes/minhas', super.obterTokenJson());
     }
-}
+
