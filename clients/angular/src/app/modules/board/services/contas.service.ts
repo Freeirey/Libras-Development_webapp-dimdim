@@ -14,5 +14,5 @@ export class ContasService extends BaseService {
         return this.httpClient.get<Conta>
             (this.apiUrl + 'contas/minha', super.obterTokenJson());
     }
-
+}
 
