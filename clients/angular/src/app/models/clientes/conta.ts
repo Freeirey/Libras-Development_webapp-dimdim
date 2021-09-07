@@ -5,4 +5,4 @@ export class Conta {
     public digitoVerificador: string;
     public saldoDisponivelEmReais: string;
     public dataHoraCriacao: string;
-
+}
