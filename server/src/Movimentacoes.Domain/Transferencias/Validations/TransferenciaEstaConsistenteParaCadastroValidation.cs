@@ -23,3 +23,4 @@ namespace Movimentacoes.Domain.Transferencias.Validations
                 .WithMessage("Saldo indisponível.");
     }
 }
+
