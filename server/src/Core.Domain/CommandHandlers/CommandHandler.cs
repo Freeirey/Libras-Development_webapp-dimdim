@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces
+﻿using Core.Domain.Interfaces;
 using Core.Domain.Notifications;
 using FluentValidation.Results;
 using MediatR;
