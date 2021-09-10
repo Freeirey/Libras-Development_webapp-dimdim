@@ -25,4 +25,4 @@ namespace Agencia.Domain.Agencia.Validations
                 .WithMessage("Já possui uma agência cadastrada na base.");
         }
     }
-
+ }
