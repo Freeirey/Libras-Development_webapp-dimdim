@@ -6,4 +6,4 @@
         Efetuada = 2,
         Recusada = 3
     }
-}
+
