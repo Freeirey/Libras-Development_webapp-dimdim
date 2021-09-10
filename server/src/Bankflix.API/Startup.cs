@@ -1,4 +1,4 @@
-using Agencia.Infra.CrossCutting.DependencyRegistration;
+using Agencia.Infra.CrossCutting.DependencyRegistration
 using AutoMapper;
 using Bankflix.API.Configurations;
 using Bankflix.API.Mapper;
