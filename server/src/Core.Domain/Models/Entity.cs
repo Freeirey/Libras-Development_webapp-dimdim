@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces
+﻿using Core.Domain.Interfaces;
 using FluentValidation.Results;
 using MongoDB.Bson.Serialization.Attributes;
 using System;
