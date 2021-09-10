@@ -13,7 +13,8 @@ RM 85455 - Mike Freire
 O projeto **BancoDimDim** simula um banco digital, contendo a área do cliente e administrativa, permitindo depósitos e transferências entre contas do mesmo banco..
 
 ## Atenção
-Este não é um projeto para ser utilizado em produção. Ele é apenas uma demonstração do uso das tecnologias e da arquitetura em que foi construído. **Existem ajustes e melhorias a serem feitos**.
+- O projeto terá um melhor desempenho utilizando o Microsoft Visual Studio
+- Este não é um projeto para ser utilizado em produção. Ele é apenas uma demonstração do uso das tecnologias e da arquitetura em que foi construído. **Existem ajustes e melhorias a serem feitos**.
 
 ## Dados para acesso da agência
 
