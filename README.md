@@ -26,5 +26,5 @@ Este não é um projeto para ser utilizado em produção. Ele é apenas uma demo
 - O cliente poderá realizar depositos online (simulado, pode-se colocar o valor que quiser) que ao cadastrado ficará como pendente, sendo adicionado na fila para ser efetuado.
 - O cliente poderá realizar uma transferência para outras contas que ao solicitar a transferência ela ficará como pendente, sendo adicionada na fila para ser efetuada ou cancelada.
 - Quando o depósito ou transferência forem efetuados/recusados (cancelado) será disparado um evento.
-- Quando o depósito ou transferência forem efetuados com sucesso, será registrada a movimentação.-
+- Quando o depósito ou transferência forem efetuados com sucesso, será registrada a movimentação.
 
