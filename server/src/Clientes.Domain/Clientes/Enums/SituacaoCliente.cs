@@ -6,4 +6,4 @@
         Aprovado = 2,
         Recusado = 3
     }
-
+}
