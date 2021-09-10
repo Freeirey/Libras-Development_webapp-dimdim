@@ -1,4 +1,4 @@
-﻿using Core.Domain.Commands
+﻿using Core.Domain.Commands;
 using System;
 
 namespace Clientes.Commands.Clientes
