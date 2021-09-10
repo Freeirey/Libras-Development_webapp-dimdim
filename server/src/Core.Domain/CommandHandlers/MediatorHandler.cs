@@ -1,4 +1,4 @@
-﻿using Core.Domain.Commands;
+﻿using Core.Domain.Commands
 using Core.Domain.Events;
 using Core.Domain.Interfaces;
 using MediatR;
