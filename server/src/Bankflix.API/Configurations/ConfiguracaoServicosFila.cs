@@ -16,4 +16,4 @@ namespace Bankflix.API.Configurations
             services.AddSingleton<IQueueableService, QueueableService>(q => new QueueableService(comandoFilas));
         }
     }
-}
+
