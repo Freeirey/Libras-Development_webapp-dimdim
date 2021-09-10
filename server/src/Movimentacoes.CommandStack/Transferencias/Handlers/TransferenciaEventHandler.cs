@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces
+﻿using Core.Domain.Interfaces;
 using MediatR;
 using Movimentacoes.Commands.Transferencias;
 using Movimentacoes.CommandStack.Transferencias.Events;
