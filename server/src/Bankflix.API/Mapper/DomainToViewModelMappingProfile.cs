@@ -1,4 +1,4 @@
-﻿using Agencia.Domain.Agencia.ValueObjects
+﻿using Agencia.Domain.Agencia.ValueObjects;
 using AutoMapper;
 using Bankflix.API.Models.Agencia;
 using Bankflix.API.Models.Movimentacoes.Depositos;
