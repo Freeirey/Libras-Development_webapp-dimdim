@@ -1,4 +1,4 @@
-﻿using Core.Domain.ValueObjects;
+﻿using Core.Domain.ValueObjects
 using Movimentacoes.Domain.Movimentacoes.Enums;
 using System;
 
