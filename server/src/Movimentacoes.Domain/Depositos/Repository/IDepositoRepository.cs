@@ -9,4 +9,4 @@ namespace Movimentacoes.Domain.Depositos.Repository
         List<Deposito> ObterPorConta(Guid contaId);
         List<Deposito> ObterPorCliente(Guid clienteId);
     }
-
+}
