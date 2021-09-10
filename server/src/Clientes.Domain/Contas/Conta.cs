@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Contas.Validations;
+﻿using Clientes.Domain.Contas.Validations
 using Core.Domain.Models;
 using System;
 
