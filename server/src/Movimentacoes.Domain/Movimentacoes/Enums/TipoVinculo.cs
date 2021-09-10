@@ -5,4 +5,3 @@
         Deposito = 1,
         Transferencia = 2
     }
-}
