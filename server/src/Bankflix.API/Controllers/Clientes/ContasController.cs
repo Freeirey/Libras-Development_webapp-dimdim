@@ -1,4 +1,4 @@
-﻿using AutoMapper
+﻿using AutoMapper;
 using Bankflix.API.Models.Clientes.Contas;
 using Clientes.Domain.Contas.Repository;
 using Core.Domain.Interfaces;
