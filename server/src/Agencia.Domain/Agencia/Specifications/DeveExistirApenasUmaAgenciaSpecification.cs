@@ -19,4 +19,4 @@ namespace Agencia.Domain.Agencia.Specifications
             return !_agenciaRepository.ObterTodos().Any();
         }
     }
-}
+
