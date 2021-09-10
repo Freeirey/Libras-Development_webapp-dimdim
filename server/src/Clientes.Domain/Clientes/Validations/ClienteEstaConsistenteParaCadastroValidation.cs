@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Clientes.Repository
+﻿using Clientes.Domain.Clientes.Repository;
 using Clientes.Domain.Clientes.Specifications;
 using Core.Domain.Extensions;
 using Core.Domain.Validations;
