@@ -1,4 +1,4 @@
-﻿using Movimentacoes.Domain.Transferencias.Enums;
+﻿using Movimentacoes.Domain.Transferencias.Enums
 using System;
 
 namespace Bankflix.API.Models.Movimentacoes.Transferencias
