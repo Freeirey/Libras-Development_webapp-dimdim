@@ -1,4 +1,4 @@
-﻿using Clientes.Commands.Contas
+﻿using Clientes.Commands.Contas;
 using Movimentacoes.Commands.Depositos;
 using Movimentacoes.CommandStack.Depositos.Events;
 using Movimentacoes.Domain.Depositos;
