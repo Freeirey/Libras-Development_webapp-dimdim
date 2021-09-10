@@ -1,4 +1,4 @@
-﻿using Agencia.Domain.Agencia.Validations;
+﻿using Agencia.Domain.Agencia.Validations
 using Agencia.Domain.Agencia.ValueObjects;
 using Core.Domain.Models;
 using System;
