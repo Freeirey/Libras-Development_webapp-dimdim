@@ -46,3 +46,4 @@ namespace Movimentacoes.Domain.Depositos
                 };
         }
     }
+}
