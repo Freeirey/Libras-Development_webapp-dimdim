@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿using AutoMapper
 using Bankflix.API.Configurations;
 using Bankflix.API.Models;
 using Bankflix.API.Models.Clientes.Clientes;
