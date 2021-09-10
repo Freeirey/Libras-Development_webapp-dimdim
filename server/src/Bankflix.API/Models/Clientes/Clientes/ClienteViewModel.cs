@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Clientes.Enums
+﻿using Clientes.Domain.Clientes.Enums;
 using System;
 
 namespace Bankflix.API.Models.Clientes.Clientes
