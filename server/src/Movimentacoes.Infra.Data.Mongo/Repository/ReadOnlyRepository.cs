@@ -18,3 +18,4 @@ namespace Movimentacoes.Infra.Data.Mongo.Repository
         }
     }
 }
+
