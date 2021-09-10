@@ -1,17 +1,4 @@
 
-[![Build status](https://dev.azure.com/alexandrebeato-com/Bankflix/_apis/build/status/Bankflix-CI)](https://dev.azure.com/alexandrebeato-com/Bankflix/_build/latest?definitionId=9)
-
-## Começando
-Para executar a aplicação:
-
-```
-git clone https://github.com/alexandrebeato/bankflix.git
-cd bankflix
-docker-compose up --build -d
-```
-
-A aplicação angular (front-end) poderá ser acessada através do endpoint `http://localhost:5001/` e a api (back-end) pode ser acessada via endpoint `http://localhost:5002/`.
-
 ## Sobre
 O projeto **Bankflix** simula um banco digital, contendo a área do cliente e administrativa, permitindo depósitos e transferências entre contas do mesmo banco..
 
