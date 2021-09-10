@@ -1,4 +1,4 @@
-﻿using Movimentacoes.Commands.Transferencias;
+﻿using Movimentacoes.Commands.Transferencias
 using Movimentacoes.CommandStack.Transferencias.Events;
 using Movimentacoes.Domain.Transferencias;
 
