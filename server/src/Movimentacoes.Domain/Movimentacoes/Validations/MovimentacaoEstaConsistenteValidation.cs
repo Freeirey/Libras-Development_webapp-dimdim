@@ -1,4 +1,4 @@
-﻿using Core.Domain.Validations
+﻿using Core.Domain.Validations;
 using FluentValidation;
 
 namespace Movimentacoes.Domain.Movimentacoes.Validations
@@ -79,4 +79,4 @@ namespace Movimentacoes.Domain.Movimentacoes.Validations
             RuleFor(m => m.DataHoraCriacao)
                 .NotEmpty().WithMessage("A data e hora de criação são obrigatórias.");
     }
-
+}
