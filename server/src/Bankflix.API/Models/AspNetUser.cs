@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces
+﻿using Core.Domain.Interfaces;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
