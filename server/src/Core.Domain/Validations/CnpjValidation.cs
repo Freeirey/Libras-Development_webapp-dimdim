@@ -47,4 +47,4 @@
             return cnpj.EndsWith(digito);
         }
     }
-}
+
