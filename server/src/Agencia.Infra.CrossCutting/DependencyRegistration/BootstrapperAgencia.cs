@@ -11,4 +11,4 @@ namespace Agencia.Infra.CrossCutting.DependencyRegistration
             services.AddScoped<IAgenciaRepository, AgenciaRepository>();
         }
     }
-
+  }
