@@ -33,3 +33,4 @@ namespace Movimentacoes.Domain.Depositos.ValueObjects
         }
     }
 }
+}
