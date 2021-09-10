@@ -53,4 +53,4 @@ namespace Agencia.Domain.Agencia.Validations
                 .NotNull().WithMessage("É obrigatório possuir configurações de dados bancários.");
         }
     }
-}
+
