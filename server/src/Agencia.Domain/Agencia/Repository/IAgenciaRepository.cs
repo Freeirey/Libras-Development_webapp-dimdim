@@ -8,4 +8,4 @@ namespace Agencia.Domain.Agencia.Repository
         Agencia ObterPorCnpj(string cnpj);
         void ConfigurarAgencia(Guid id, string razaoSocial, string nomeFantasia, string cnpj, string senha, string numeroAgencia, string digitoVerificador);
     }
-
+ }
