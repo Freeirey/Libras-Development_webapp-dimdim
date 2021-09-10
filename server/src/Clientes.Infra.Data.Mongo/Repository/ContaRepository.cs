@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Contas;
+﻿using Clientes.Domain.Contas
 using Clientes.Domain.Contas.Repository;
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
