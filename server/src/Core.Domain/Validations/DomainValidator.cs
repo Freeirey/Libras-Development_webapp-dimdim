@@ -12,4 +12,4 @@ namespace Core.Domain.Validations
             _entidade = entidade;
         }
     }
-}
+
