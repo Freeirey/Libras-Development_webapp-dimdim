@@ -1,4 +1,4 @@
-using Agencia.Domain.Agencia.Repository
+using Agencia.Domain.Agencia.Repository;
 using Core.Domain.Utils;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
