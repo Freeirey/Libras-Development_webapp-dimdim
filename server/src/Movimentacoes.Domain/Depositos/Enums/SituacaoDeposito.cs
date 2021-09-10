@@ -6,4 +6,4 @@
         Efetuado = 2,
         Cancelado = 3
     }
-
+}
