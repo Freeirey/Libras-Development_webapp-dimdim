@@ -1,4 +1,4 @@
-﻿using Clientes.Commands.Contas
+﻿using Clientes.Commands.Contas;
 using Core.Domain.CommandHandlers;
 using Core.Domain.Interfaces;
 using Core.Domain.Notifications;
