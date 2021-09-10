@@ -80,4 +80,4 @@ namespace Movimentacoes.Domain.Depositos.Validations
             RuleFor(d => d.DataHoraCriacao)
                 .NotEmpty().WithMessage("A data e hora de criação são obrigatórias.");
     }
-
+}
