@@ -1,4 +1,4 @@
-﻿using Core.Domain.Events;
+﻿using Core.Domain.Events
 using System;
 
 namespace Movimentacoes.CommandStack.Transferencias.Events
