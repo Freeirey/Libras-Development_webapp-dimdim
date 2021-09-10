@@ -1,4 +1,4 @@
-﻿using Core.Domain.Commands
+﻿using Core.Domain.Commands;
 using Movimentacoes.Domain.Movimentacoes.Enums;
 using System;
 
