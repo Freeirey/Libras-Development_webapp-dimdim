@@ -1,4 +1,4 @@
-﻿using Core.Domain.Models;
+﻿using Core.Domain.Models
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace Movimentacoes.Domain.Clientes
