@@ -1,4 +1,4 @@
-﻿using Clientes.Commands.Clientes;
+﻿using Clientes.Commands.Clientes
 using Clientes.Commands.Contas;
 using Clientes.CommandStack.Clientes.Events;
 using Clientes.CommandStack.Clientes.Handlers;
