@@ -1,4 +1,4 @@
-﻿using Movimentacoes.Domain.Movimentacoes.Enums
+﻿using Movimentacoes.Domain.Movimentacoes.Enums;
 using System;
 
 namespace Bankflix.API.Models.Movimentacoes.Movimentacoes
