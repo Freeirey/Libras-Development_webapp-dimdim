@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces;
+﻿using Core.Domain.Interfaces
 using System;
 using System.Collections.Generic;
 
@@ -8,4 +8,4 @@ namespace Movimentacoes.Domain.Movimentacoes.Repository
     {
         List<Movimentacao> ObterPorCliente(Guid clienteId);
     }
-}
+
