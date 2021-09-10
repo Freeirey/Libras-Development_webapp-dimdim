@@ -1,4 +1,4 @@
-﻿using Core.Domain.Validations
+﻿using Core.Domain.Validations;
 using FluentValidation;
 
 namespace Clientes.Domain.Clientes.Validations
