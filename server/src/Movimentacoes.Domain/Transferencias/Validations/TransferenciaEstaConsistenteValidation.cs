@@ -115,3 +115,4 @@ namespace Movimentacoes.Domain.Transferencias.Validations
                 .NotEmpty().WithMessage("A data e hora de criação são obrigatórias.");
     }
 }
+
