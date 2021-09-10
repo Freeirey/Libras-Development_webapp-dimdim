@@ -1,4 +1,4 @@
-﻿using Core.Domain.Commands;
+﻿using Core.Domain.Commands
 using Core.Domain.Interfaces;
 using MediatR;
 using Microsoft.Extensions.Configuration;
