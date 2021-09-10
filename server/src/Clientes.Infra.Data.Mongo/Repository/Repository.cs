@@ -1,4 +1,4 @@
-﻿using Core.Domain.Interfaces;
+﻿using Core.Domain.Interfaces
 using Core.Domain.Models;
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
