@@ -1,4 +1,4 @@
-﻿using Movimentacoes.Commands.Movimentacoes
+﻿using Movimentacoes.Commands.Movimentacoes;
 using Movimentacoes.Domain.Movimentacoes;
 
 namespace Movimentacoes.CommandStack.Movimentacoes.Adapters
