@@ -1,4 +1,4 @@
-﻿using Core.Domain.ValueObjects;
+﻿using Core.Domain.ValueObjects
 using System;
 
 namespace Movimentacoes.Domain.Movimentacoes.ValueObjects
