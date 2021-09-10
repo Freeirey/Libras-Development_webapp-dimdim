@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Clientes
+﻿using Clientes.Domain.Clientes;
 using Clientes.Domain.Clientes.Enums;
 using Clientes.Domain.Clientes.Repository;
 using Microsoft.Extensions.Configuration;
