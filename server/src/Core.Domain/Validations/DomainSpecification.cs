@@ -13,4 +13,4 @@ namespace Core.Domain.Validations
 
         public abstract bool IsValid();
     }
-
+}
