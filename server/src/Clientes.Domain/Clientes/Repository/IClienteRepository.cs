@@ -1,4 +1,4 @@
-﻿using Clientes.Domain.Clientes.Enums;
+﻿using Clientes.Domain.Clientes.Enums
 using Core.Domain.Interfaces;
 using System.Collections.Generic;
 
