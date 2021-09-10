@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿using AutoMapper
 using Bankflix.API.Models.Movimentacoes.Movimentacoes;
 using Core.Domain.Interfaces;
 using Core.Domain.Notifications;
