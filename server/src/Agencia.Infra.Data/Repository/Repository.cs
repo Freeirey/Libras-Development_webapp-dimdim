@@ -51,4 +51,4 @@ namespace Agencia.Infra.Data.Mongo.Repository
             return _mongoCollection.Find(predicate).ToList();
         }
     }
-}
+
