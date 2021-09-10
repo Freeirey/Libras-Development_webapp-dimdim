@@ -1,4 +1,4 @@
-﻿using Core.Domain.Models
+﻿using Core.Domain.Models;
 using Core.Domain.Validations;
 using FluentValidation;
 
