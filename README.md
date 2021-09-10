@@ -1,3 +1,13 @@
+**nome dos alunos: RM 85225 - Carlos Eduardo Hayashi
+
+RM 85169 - Larissah Silva
+
+RM 85455 - Mike Freire
+
+**Turma:2TDS-F
+
+**Ano: 2° Ano
+
 
 ## Sobre
 O projeto **BancoDimDim** simula um banco digital, contendo a área do cliente e administrativa, permitindo depósitos e transferências entre contas do mesmo banco..
