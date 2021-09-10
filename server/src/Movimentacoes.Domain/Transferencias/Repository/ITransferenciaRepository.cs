@@ -12,3 +12,4 @@ namespace Movimentacoes.Domain.Transferencias.Repository
         List<Transferencia> ObterPorClienteDestino(Guid clienteId);
     }
 }
+
