@@ -1,4 +1,4 @@
-﻿using Agencia.Domain.Agencia.Repository
+﻿using Agencia.Domain.Agencia.Repository;
 using AutoMapper;
 using Bankflix.API.Configurations;
 using Bankflix.API.Models;
