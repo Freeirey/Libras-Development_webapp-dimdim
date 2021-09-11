@@ -1,0 +1,27 @@
+CREATE TABLE cartao_credito (
+    cd_cartao           NUMBER(3) NOT NULL,
+    nm_banco            VARCHAR2(30) NOT NULL,
+    nr_cartao           NUMBER(16) NOT NULL,
+    cvv_cartao          NUMBER(3) NOT NULL,
+    dt_expiracao        DATE NOT NULL,
+    cd_cliente          NUMBER(3) NOT NULL,
+    dt_compra           DATE NOT NULL,
+    nm_loja             VARCHAR2(100) NOT NULL
+);
+
+ALTER TABLE cartao_credito ADD CONSTRAINT cartao_credito_pk PRIMARY KEY ( cd_cartao );
+
+CREATE TABLE cliente (
+    cd_cliente          NUMBER(3) NOT NULL,
+    nm_cliente          VARCHAR2(50) NOT NULL,
+    cpf_cliente         VARCHAR2(11) NOT NULL,
+    nr_telefone         VARCHAR2(20) NOT NULL,
+    dt_nascimento       DATE NOT NULL,
+    ds_endereco         VARCHAR2(100) NOT NULL
+);
+
+ALTER TABLE cliente ADD CONSTRAINT cliente_pk PRIMARY KEY ( cd_cliente );
+
+ALTER TABLE cartao_credito
+    ADD CONSTRAINT cartao_credito_cliente_fk FOREIGN KEY ( cd_cliente )
+        REFERENCES cliente ( cd_cliente );
