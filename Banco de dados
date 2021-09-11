@@ -1,0 +1,23 @@
+INSERT INTO cliente (cd_cliente,nm_cliente,cpf_cliente,nr_telefone,dt_nascimento,ds_endereco)
+VALUES(1,'Larissah Silva','46892280862','11 975150852',TO_DATE('2001-09-09 00:00:00', 'YYYY-MM-DD HH24:MI:SS'), 'Av Paulista, 2 Bloco A');
+
+INSERT INTO cartao_credito (cd_cartao,nm_banco,nr_cartao,cvv_cartao,dt_expiracao,cd_cliente,dt_compra,nm_loja)
+VALUES(1,'Itau',4576010006352145,604,TO_DATE('2026-08-09 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),1,
+TO_DATE('2021-09-10 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),'ZARA');
+
+
+INSERT INTO cliente (cd_cliente,nm_cliente,cpf_cliente,nr_telefone,dt_nascimento,ds_endereco)
+VALUES(2,'Mike Freire','17485296311','11 974241829',TO_DATE('2001-04-02 00:00:00', 'YYYY-MM-DD HH24:MI:SS'), 'Rua Abc, Vila Olimpia, 12');
+
+INSERT INTO cartao_credito (cd_cartao,nm_banco,nr_cartao,cvv_cartao,dt_expiracao,cd_cliente,dt_compra,nm_loja)
+VALUES(2,'Itau',4579538420678514,009,TO_DATE('2028-07-09 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),2,
+TO_DATE('2021-09-01 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),'CENTAURO');
+
+
+
+INSERT INTO cliente (cd_cliente,nm_cliente,cpf_cliente,nr_telefone,dt_nascimento,ds_endereco)
+VALUES(3,'Carlos Eduardo','18936548510','11 998264785',TO_DATE('2001-06-06 00:00:00', 'YYYY-MM-DD HH24:MI:SS'), 'Rua Teodoro, Vl Curuça, 8');
+
+INSERT INTO cartao_credito (cd_cartao,nm_banco,nr_cartao,cvv_cartao,dt_expiracao,cd_cliente,dt_compra,nm_loja)
+VALUES(3,'Itau',9658470006352145,714,TO_DATE('2026-08-11 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),3,
+TO_DATE('2021-09-22 00:00:00', 'YYYY-MM-DD HH24:MI:SS'),'LINDT');
